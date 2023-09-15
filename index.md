@@ -7,7 +7,7 @@ Hello and welcome to my blog post. In an age where digitalization has become an 
 <p>Save the document by pressing <kbd>Ctrl + S</kbd></p>
 ```
 
-![Professional image of Amiri](/access/unamed.jpeg)
+![Professional image of Amiri](/assets/unamed.jpeg)
 
 
 ## Recent Posts
