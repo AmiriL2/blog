@@ -8,3 +8,13 @@ Hello and welcome to my blog post. In an age where digitalization has become an 
 ```
 
 ![Professional image of Amiri](/access/unamed.jpeg)
+
+
+## Recent Posts
+<ul> 
+    {% for post in site.posts %}
+    <li>
+        <a href="/blog/{{ post.url }}">{{ post.title }}</a>
+    </li>
+    {% endfor %}
+</ul>
