@@ -1,8 +1,7 @@
-# Amiri's Blog
 
 ## Heading 2
 
-Hello, **welcome** to my blog
+Hello, welcome to my  blog. You can feel free to delve into a treasure trove of tech wisdom. From debugging 
 
 
 ```html
