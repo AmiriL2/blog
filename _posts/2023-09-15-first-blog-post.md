@@ -10,4 +10,4 @@ For many students, the journey towards a career in internet security begins with
 
 ### **Building a Strong Educational Foundation**
 
-Once the interest is sparked, the student embarks on a path of education. Courses in computer science, networking, and cybersecurity become the building blocks of knowledge. Internships, workshops, and online courses can provide practical experience and exposure to the ever-evolving world of internet security.
+Once the interest is sparked, the student embarks on a path of education. Courses in computer programming, networking, and cybersecurity become the building blocks of knowledge. Internships, workshops, and online courses can provide practical experience and exposure to the ever-evolving world of internet security.

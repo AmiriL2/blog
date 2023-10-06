@@ -1,8 +1,7 @@
 
-## Heading 2
+## Introduction
 
-Hello and welcome to my blog post. In an age where digitalization has become an integral part of our lives, the importance of cybersecurity cannot be overstated. The world of cybersecurity is dynamic, challenging, and ever-evolving, making it one of the most exciting and sought-after fields in technology today. In this blog post, we'll explore what it's like to work in cybersecurity, from the daily challenges to the rewards and the skills required to thrive in this field.
-
+Hello and welcome to my blog post. My name is Amiri Layne and in this blog post I will talk about my journey to wokr in Information Security/ Cybersecurity in the near future. I will talk about how I am in the process of learning Python, getting my certificate, and getting my Google Cybersecurity Certificate. Technology is a constantly growing profession and I believe that if i put enough work in, I can get intot his career.
 ```html 
 <p>Save the document by pressing <kbd>Ctrl + S</kbd></p>
 ```
