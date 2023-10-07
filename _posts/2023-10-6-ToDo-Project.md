@@ -1,7 +1,7 @@
 # ToDo Project: How To Create
 
 ### **What Was Done**
-Recently in FSD, we created a Todo list using python. The abilities the ToDo list has to have is to allow the user to add and remove things from the list, as well as tell you what your current ToDos are.
+Recently in the Back End Development pathway, we created a To Do list using Python. The abilities the ToDo list has to have is to allow the user to add and remove things from the list, as well as tell you what your current to dos are. If you need help creating your own to do list in python then feel free to use this code as a guide as to how create your own
 
 ### **How To Create**
 
@@ -11,7 +11,6 @@ Example:
 ```python
      ToDo = ["get cash", "spend cash", "cry"]
 ```
-
 Allowing it to repeat itself after you complete whatever you wanted to say. So what do you use for this? A while loop! If you use a while loop and set the condition to true, everthing under the while toop will repeat after you finish entering what you want to enter into the list.
 ```python
 while True:
@@ -55,9 +54,9 @@ If neither of these is what the user has inputed, then the code should return an
 ```
 ### **Finishing Touches**
 
-In order to allow the code to print out the todos, you must use a for loop. This for loop must say that for T in todos, print out the todos. This T will represenent the values inside of the list. However, that is not all that we will be doing. We will be also printing out the number of todos next to the todos in the list. 
+In order to allow the code to print out the to dos, you must use a for loop. This for loop must say that for T in to ToDo, print out the to  dos. This T will represenent the values inside of the list. However, that is not all that we will be doing. We will be also printing out the number of to dos next to the to dos in the list. 
 
-The way we will do this is by setting a value to one. In this example, we will use X. Everytime we add another item to the todo, the number will go up. We do not have to worry about the remove because when you remove an item from the list the number in the list will go down by one. 
+The way we will do this is by setting a value to one. In this example, we will use X. Everytime we add another item to the to do, the number will go up. We do not have to worry about the remove because when you remove an item from the list the number in the list will go down by one. 
 
 Although, putting these all together will not print out properly and result in a syntax error. Why might you ask? Because X is printed out as an integer, not a string. So what you must do is convert X back to a string by doing str(X). After doing that, now you may put these altogether and have a proper printout.
 
@@ -91,4 +90,4 @@ That way when you use the code it should print out like any of these depending o
 3)
 ![third example of how the code should print out](/assets/example3.png)
 
-
+## Thank You ;)
