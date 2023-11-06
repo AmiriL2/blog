@@ -29,6 +29,7 @@ The data presented in the graph reveals that 74.2% of females survived the titan
 ## **Question 2**
 
 My second question developed was, what percentage of people who payed over $37 survived on the Titanic. This data can be found by finding those who payed more than $37 and finding the percentage of those who survived to those who did not survive. The result was this graph: 
+
 ![62% of those who payed over $37 survived while the other 38% did not survive](/assets/output2.png)
 
 The data presented in the graph reveals that 62% of those who payed over $37 survived while the other 38% did not survive. It can be said with this data that more two thirds of those who payed more than $37 survived while the other one third did not. The higher the fare meant the higher up on the Titanic people could be, with the cheaper fares being lower down. This can explain why 2 in 3 people who payed more than $37 survived the events.
